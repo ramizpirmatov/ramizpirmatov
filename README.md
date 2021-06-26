@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ramiz Pirmatov
+- 👀 I’m interested in Web, Android and Game developments
+- 🌱 I’m currently learning Web development with Java
+- 📫 ramiz.pirmatov@gmail.com
